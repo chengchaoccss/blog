@@ -1,14 +1,21 @@
 ---
-title: Hello World
+title: Hexo常用命令
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
 ## Quick Start
 
+### 创建博客文件夹
+```
+hexo init "菜鸟超个人博客站"
+```
+
+### 然后进入菜鸟超个人博客站文件夹
+
 ### Create a new post
 
 ``` bash
-$ hexo new "My New Post"
+$ hexo new "我的第一篇文章"
 ```
 
 More info: [Writing](https://hexo.io/docs/writing.html)
